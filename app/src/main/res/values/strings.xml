@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="enter_text_to_translate">Enter text to translate</string>
+    <string name="await_text">…</string>
+
+    <string-array name="spinner_array">
+        <item>Auto Detect</item>
+        <item>English</item>
+        <item>Arabic</item>
+        <item>Chinese</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Polish</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Turkish</item>
+        <item>Vietnamese</item>
+    </string-array>
+</resources>
